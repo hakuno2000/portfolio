@@ -29,7 +29,7 @@ const siteProps = {
   email: "vinh@notional.ventures",
   gitHub: "hakuno2000",
   instagram: "vinh.uet",
-  linkedIn: "hakuno2000",
+  linkedIn: "vinh2000",
   medium: "",
   twitter: "hakuno2000",
   youTube: "",
